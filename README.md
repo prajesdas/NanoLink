@@ -44,6 +44,7 @@ node server.js
 - **Redirect** → Open `http://localhost:3000/{shortId}`  
 
 ---
+![WhatsApp Image 2025-02-10 at 12 30 53_373fcec7](https://github.com/user-attachments/assets/6202755c-358f-4ae4-a7e5-bfdea6232a75)
 
 🔥 **Now NanoLink shortener is live at** `http://localhost:3000` 🚀  
 
