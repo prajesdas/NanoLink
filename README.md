@@ -45,5 +45,5 @@ node server.js
 
 ---
 
-🔥 **Now your NanoLink shortener is live at** `http://localhost:3000` 🚀  
-Let me know if you need more features! 💡
+🔥 **Now NanoLink shortener is live at** `http://localhost:3000` 🚀  
+
